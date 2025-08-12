@@ -1,6 +1,6 @@
-package findEvenDigits1295;
+package com.leetcode.problems;
 
-class Solution {
+class Question1279 {
 
     static int checkHowManyDigits(int n){
         int count = 0;
