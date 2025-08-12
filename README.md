@@ -1,5 +1,12 @@
 <h1>DSA LeetCode Problems Solutions</h1>
-<ul>
-  <li><h3>Solved Question Number 1295 (Find Numbers with Even Number of Digits)</h3></li>
-</ul>
+<table size="1">
+  <tr>
+    <th>Question No</th>
+    <th>Question</th>
+  </tr>
+  <tr>
+    <td>1295</td>
+    <td>Find Numbers with Even Number of Digits</td>
+  </tr>
+</table>
 
