@@ -15,5 +15,10 @@
     <td>1672</td>
     <td>Richest Customer Wealth</td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td>744</td>
+    <td>Find Smallest Letter Greater Than Target</td>
+  </tr>
 </table>
 
